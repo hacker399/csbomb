@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4PvAenJX+eM=",
+  "success": true,
+  "projectFilePath": "/home/rem34/Desktop/virus/main1/main1.csproj",
+  "expectedPackageFiles": [
+    "/home/rem34/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

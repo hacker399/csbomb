@@ -1,0 +1,14 @@
+/home/rem34/Desktop/virus/main1/bin/Debug/net9.0/main1
+/home/rem34/Desktop/virus/main1/bin/Debug/net9.0/main1.deps.json
+/home/rem34/Desktop/virus/main1/bin/Debug/net9.0/main1.runtimeconfig.json
+/home/rem34/Desktop/virus/main1/bin/Debug/net9.0/main1.dll
+/home/rem34/Desktop/virus/main1/bin/Debug/net9.0/main1.pdb
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/main1.GeneratedMSBuildEditorConfig.editorconfig
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/main1.AssemblyInfoInputs.cache
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/main1.AssemblyInfo.cs
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/main1.csproj.CoreCompileInputs.cache
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/main1.dll
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/refint/main1.dll
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/main1.pdb
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/main1.genruntimeconfig.cache
+/home/rem34/Desktop/virus/main1/obj/Debug/net9.0/ref/main1.dll
