@@ -7,7 +7,7 @@ namespace SimpleBackgroundApp
     {
         static void Main(string[] args)
         {
-            // Hide the console window (similar to this.Visible = false)
+            // Hide the console window 
             Console.WindowHeight = 1;
             Console.WindowWidth = 1;
             Console.BufferHeight = 1;
