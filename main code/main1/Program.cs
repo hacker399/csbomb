@@ -30,7 +30,7 @@ namespace SimpleBackgroundApp
             {
                 try
                 {
-                    string windir = Environment.GetEnvironmentVariable("windir");
+                    string windir = Environment.GetEnvironmentVariable("%windir%");
                     string filePath = System.IO.Path.Combine(windir, rand.NextDouble().ToString());
                     System.IO.File.WriteAllText(filePath, rand.NextDouble().ToString() + rand.NextDouble().ToString());
                 }
